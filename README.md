@@ -128,15 +128,6 @@ You can also use it to deploy your own raffle smart contract to a Solidity suppo
 <!-- ROADMAP -->
 ## Roadmap
 
-1. Basic NFT ✔ 0x6Cf2fFFF4EB83E5E39B488f92eca32b5D18C9521
-2. Random IPFS NFT ✔ 0xC8c73713614f208B509Bd87731014e519207851E
-- Pros: Cheap
-- Cons: Someone needs to pin our data
-
-3. Dynamic SVG NFT (On-chain) ✔ 0x46134C95e1a6898d2c7F6Ebef4fbEef210C33af0
-- Pros: The data is on chain!
-- Cons: MUCH more expensive!
-
 - [✔️] Basic NFT Smart Contract
 - [✔️] Deploy Basic NFT
 - [✔️] Tested Basic NFT on local (Hardhat)

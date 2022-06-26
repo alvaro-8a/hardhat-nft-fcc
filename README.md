@@ -87,11 +87,11 @@ To get a local copy up and running follow these simple steps.
 
 ### Prerequisites
 
-Make sure you have already installed Node.js in your device. In case you have, upgrade npm to the latest version
+Make sure you have already installed Node.js in your device. Also make sure you have yarn installed, in case you don't, install it:
 
-* npm
+* yarn
   ```sh
-  npm install npm@latest -g
+  npm install --global yarn
   ```
 
 ### Installation
